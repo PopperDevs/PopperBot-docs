@@ -1,0 +1,2 @@
+# PoppersBot
+![GitHub issues](https://img.shields.io/github/issues/PopperDevs/PopperBot) ![GitHub pull requests](https://img.shields.io/github/issues-pr/PopperDevs/PopperBot) ![GitHub](https://img.shields.io/github/license/PopperDevs/PopperBot)
