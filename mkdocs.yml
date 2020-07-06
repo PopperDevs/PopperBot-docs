@@ -7,3 +7,13 @@ nav:
   - Commands: commands.md
   - Changelog: changelog.md
   - License: LICENSE.md
+
+theme:
+  palette:
+    scheme: slate
+    primary: teal
+  name: material
+  font: false
+  feature:
+    tabs: true
+  favicon: https://avatars3.githubusercontent.com/u/6692364?s=400&u=ac3000ec9ec40db490ab01953f05f2933d7b037f&v=4
