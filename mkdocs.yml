@@ -22,3 +22,8 @@ theme:
     - plantuml_markdown:
         server: http://www.plantuml.com/plantuml 
     - markdown_checklist.extension
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/6tbuesB
