@@ -16,3 +16,12 @@ Stops the bot and trys to restart.
  - restart
 ### permissions
  - owner
+
+ ---
+## ping
+Display the latency between server and bot.
+### aliases
+ - p
+ - pong
+### permissions
+ - user
