@@ -1,6 +1,6 @@
 # Create Commands
 
-The commands folder contains every command for the bot. Each command has its own folder, and an index.js in it. If a command contains a subcommand, a file with the subcommand name is created inside the folder.
+The [commands folder](https://github.com/PopperDevs/PopperBot/tree/master/commands) contains every command for the bot. Each command has its own folder, and an index.js in it. If a command contains a subcommand, a file with the subcommand name is created inside the folder.
 
 ## Template for a command
 
