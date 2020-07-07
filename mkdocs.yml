@@ -4,7 +4,9 @@ site_url: https://github.com/PopperDevs/PopperBot
 copyright: '© 2020 PopperDevs MIT'
 nav:
   - Home: index.md
-  - Commands: commands.md
+  - Commands: 
+    - Commands to use: commands/commands.md
+    - create commands: commands/create_comamnds.md
   - Changelog: changelog.md
   - License: LICENSE.md
 
