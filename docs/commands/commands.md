@@ -25,3 +25,11 @@ Display the latency between server and bot.
  - pong
 ### permissions
  - user
+
+ ---
+## help
+Send an information message with commands ith descriiption.
+### aliases
+ - h
+### permissions
+ - user
