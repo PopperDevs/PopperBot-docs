@@ -6,7 +6,7 @@ nav:
   - Home: index.md
   - Commands: 
     - Commands to use: commands/commands.md
-    - create commands: commands/create_comamnds.md
+    - create commands: commands/create_commands.md
   - Changelog: changelog.md
   - License: LICENSE.md
 
