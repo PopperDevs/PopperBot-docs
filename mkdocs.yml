@@ -7,6 +7,7 @@ nav:
   - Commands: commands.md
   - Changelog: changelog.md
   - License: LICENSE.md
+  - Permissions: permissions.md
 
 theme:
   palette:
