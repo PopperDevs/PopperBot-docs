@@ -1,45 +1,45 @@
 # Commands
 
-## uptime
+### uptime
 Shows the time where the bot is running for.
-### aliases
+#### aliases
  - up
-### permissions
+#### permissions
  - user
 
 ---
-## stop
+### stop
 Stops the bot and trys to restart.
-### aliases
+#### aliases
  - exit
  - shutdown
  - restart
-### permissions
+#### permissions
  - owner
 
  ---
-## ping
+### ping
 Display the latency between server and bot.
-### aliases
+#### aliases
  - p
  - pong
-### permissions
+#### permissions
  - user
 
  ---
-## help
+### help
 Send an information message with commands ith descriiption.
-### aliases
+#### aliases
  - h
-### permissions
+#### permissions
  - user
 
  ---
-## info
+### info
 Send an information message content about the bot and the guild.
-### aliases
+#### aliases
  - i
-### permissions
+#### permissions
  - user
 
 ## Create Commands
