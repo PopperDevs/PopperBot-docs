@@ -33,3 +33,11 @@ Send an information message with commands ith descriiption.
  - h
 ### permissions
  - user
+
+ ---
+## info
+Send an information message content about the bot and the guild.
+### aliases
+ - i
+### permissions
+ - user
