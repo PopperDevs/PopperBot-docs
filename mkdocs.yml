@@ -5,9 +5,10 @@ copyright: '© 2020 PopperDevs MIT'
 nav:
   - Home: index.md
   - Commands: commands.md
+  - Permissions: permissions.md
   - Changelog: changelog.md
   - License: LICENSE.md
-  - Permissions: permissions.md
+
 
 theme:
   palette:
