@@ -42,6 +42,15 @@ Sends an information message about the bot and its data.
 #### permissions
  - user
 
+ ---
+### code
+Sends a message with a template to send code snippets. 
+#### aliases
+\<none>
+#### permissions
+ - user
+
+
 ## Create Commands
 
 The [commands folder](https://github.com/PopperDevs/PopperBot/tree/master/commands) contains every command for the bot. Each command has its own folder, and an index.js in it. If a command contains a subcommand, a file with the subcommand name is created inside the folder.
