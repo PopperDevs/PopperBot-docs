@@ -69,7 +69,7 @@ Sends a message with the result of a calculation.
 
 ---
 ### phpdoc
-Sends a message with the result of a search querry.
+Sends a message with the result of a php based search querry.
 #### aliases
  - php
 #### permissions
@@ -83,6 +83,14 @@ Sends a message with the result of a color based search querry.
 #### supported types
  - hex
  - rgb
+#### permissions
+ - user
+
+---
+### mdn
+Sends a message with the result of a search querry.
+#### aliases
+ - mdn
 #### permissions
  - user
 
