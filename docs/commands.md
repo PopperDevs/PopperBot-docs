@@ -69,7 +69,7 @@ Sends a message with the result of a calculation.
 
 ---
 ### phpdoc
-Sends a message with the result of a php based search querry.
+Sends a message with the result of a php-based search querry.
 #### aliases
  - php
 #### permissions
