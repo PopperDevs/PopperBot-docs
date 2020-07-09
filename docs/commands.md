@@ -50,6 +50,13 @@ Sends a message with a template to send code snippets.
 #### permissions
  - user
 
+---
+### ask
+Sends a message with the 'Don't ask to ask' response.
+#### aliases
+\<none>
+#### permissions
+ - user
 
 ## Create Commands
 
