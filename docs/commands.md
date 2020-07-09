@@ -58,6 +58,15 @@ Sends a message with the 'Don't ask to ask' response.
 #### permissions
  - user
 
+ ---
+### math
+Sends a message with the result of a calculation.
+#### aliases
+ - m
+ - calc
+#### permissions
+ - user
+
 ## Create Commands
 
 The [commands folder](https://github.com/PopperDevs/PopperBot/tree/master/commands) contains every command for the bot. Each command has its own folder, and an index.js in it. If a command contains a subcommand, a file with the subcommand name is created inside the folder.
