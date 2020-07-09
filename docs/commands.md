@@ -75,6 +75,17 @@ Sends a message with the result of a search querry.
 #### permissions
  - user
 
+---
+### color
+Sends a message with the result of a color based search querry.
+#### aliases
+\<none>
+#### supported types
+ - hex
+ - rgb
+#### permissions
+ - user
+
 ## Create Commands
 
 The [commands folder](https://github.com/PopperDevs/PopperBot/tree/master/commands) contains every command for the bot. Each command has its own folder, and an index.js in it. If a command contains a subcommand, a file with the subcommand name is created inside the folder.
